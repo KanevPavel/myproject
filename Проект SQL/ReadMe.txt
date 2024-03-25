@@ -8,4 +8,4 @@
 3) Проанализировать логистику компании (определить, все ли заказы доставляются в срок и в каком штате лучше открыть офлайн-магазин).
 
 Ссылка на на диск:
-https://docs.google.com/document/d/1fZQurn4amNhgOG8DqEZmcwAC9vnkaTPKUSlAKNT8zS0/edit?usp=sharing
+https://drive.google.com/file/d/1H2i23nuavEA3C7wTEP5UWmYQAMIPWxHm/view?usp=sharing
